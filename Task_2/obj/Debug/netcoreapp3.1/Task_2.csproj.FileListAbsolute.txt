@@ -1,0 +1,13 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/bin/Debug/netcoreapp3.1/Task_2.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/bin/Debug/netcoreapp3.1/Task_2.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/bin/Debug/netcoreapp3.1/Task_2.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/bin/Debug/netcoreapp3.1/Task_2.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/bin/Debug/netcoreapp3.1/Task_2.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_2/Task_2/obj/Debug/netcoreapp3.1/Task_2.genruntimeconfig.cache
